@@ -1,4 +1,4 @@
-# KkFileView存在SSRF漏洞
+# KkFileView has SSRF vulnerabilities
 
 
 The server provides the function of obtaining data from other server applications without filtering or restricting addresses and protocols.
